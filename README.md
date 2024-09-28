@@ -8,4 +8,4 @@
        v) Exit
 
 2) Only python with the conditional of nested if-else used here
-3) By selecting og give number the code should run properly
+3) By selecting of give number the code should run properly
